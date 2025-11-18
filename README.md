@@ -71,8 +71,9 @@ Data akan disimpan ke tabel `data_barang`.
 
 ## Screenshot Tampilan (Masukkan Gambar Kamu)
 
-### Halaman Index
-![Tampilan Tambah](gambar/tambah.png)
+### Halaman Tambah
+<img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/eec1ca7a-9ef4-4ab9-8f57-0c6ae5e2ce1a" />
+
 ---
 ---
 
