@@ -118,8 +118,9 @@ $conn = mysqli_connect($host, $user, $pass, $db);
 ?>
 ## Screenshot Tampilan (Masukkan Gambar Kamu)
 
-### Halaman Index
-![Tampilan Hapus](gambar/hapus.png)
+### Halaman Koneksi
+<img width="412" height="155" alt="image" src="https://github.com/user-attachments/assets/356b072d-3c07-447d-9517-cadea4f2cf24" />
+
 ---
 
 
