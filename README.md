@@ -87,8 +87,9 @@ Fitur:
 
 ## Screenshot Tampilan (Masukkan Gambar Kamu)
 
-### Halaman Index
-![Tampilan Ubah](gambar/ubah.png)
+### Halaman Ubah
+<img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/d8c58506-2d66-448e-936a-a5f1d0254aa1" />
+
 ---
 
 ##  4. hapus.php
