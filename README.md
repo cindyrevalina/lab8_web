@@ -53,7 +53,7 @@ Tabel menggunakan style warna **pink** dari `style.css`.
 ## Screenshot Tampilan (Masukkan Gambar Kamu)
 
 ### Halaman Index
-![Tampilan Index]<img width="1342" height="698" alt="image" src="https://github.com/user-attachments/assets/6a5b457c-1ae0-4b53-92dc-6965e5f0b0cc" />
+<img width="1342" height="698" alt="image" src="https://github.com/user-attachments/assets/6a5b457c-1ae0-4b53-92dc-6965e5f0b0cc" />
 
 ---
 
@@ -98,8 +98,9 @@ Setelah dihapus, pengguna akan diarahkan kembali ke halaman index.
 
 ## Screenshot Tampilan (Masukkan Gambar Kamu)
 
-### Halaman Index
-![Tampilan Hapus](gambar/hapus.png)
+### Halaman Hapus
+<img width="586" height="198" alt="image" src="https://github.com/user-attachments/assets/c61c2062-b6bb-41a0-a15f-42367dda73bd" />
+
 ---
 
 ##  5. koneksi.php
