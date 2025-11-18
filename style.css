@@ -1,0 +1,119 @@
+/* Warna background halaman */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe4f2; /* Pink soft */
+    margin: 0;
+    padding: 0;
+}
+
+/* Container utama */
+.container {
+    width: 90%;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 105, 180, 0.3);
+}
+
+/* Judul */
+h1 {
+    text-align: center;
+    color: #d63384; 
+}
+
+/* Tombol tambah */
+.btn-tambah {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #ff66b2;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.btn-tambah:hover {
+    background-color: #ff4da6;
+}
+
+/* Tabel */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+/* Border tabel kotak */
+table, th, td {
+    border: 2px solid #ff99cc; 
+}
+
+/* Header tabel */
+th {
+    background-color: #ff66b2;
+    color: white;
+    padding: 10px;
+}
+
+/* Isi tabel */
+td {
+    padding: 10px;
+    text-align: center;
+    background-color: #ffe6f2;
+}
+
+/* Hover baris */
+tr:hover td {
+    background-color: #ffd1e8;
+}
+
+/* Link Ubah & Hapus */
+a {
+    color: #d63384;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.container {
+    width: 95%;
+    margin: 30px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 105, 180, 0.3);
+}
+
+
+/* jarak antar input */
+form div {
+    margin-bottom: 15px;
+}
+
+/* style input */
+input[type="text"], 
+input[type="number"], 
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+button {
+    width: 100%;         /* tombol melebar ke samping */
+    padding: 12px;       /* tinggi normal */
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+table img {
+    width: 150px;
+    height: 120px;
+    object-fit: cover;
+}
