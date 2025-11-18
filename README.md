@@ -8,7 +8,7 @@
 
 ## MATA KULIAH    : Pemrograman Web 1
 
-## DOSEN PENGAMPU : 
+## DOSEN PENGAMPU : Agung Nugroho, S.Kom., M.Kom
  
 ## Penjelasan
 Project ini adalah implementasi CRUD (Create, Read, Update, Delete) menggunakan PHP + MySQL.  
